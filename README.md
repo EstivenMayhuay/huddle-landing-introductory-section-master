@@ -1,3 +1,4 @@
 ## **Views**
 
-![view]('https://estivenmayhuay.github.io/huddle-landing-introductory-section-master/images/view.png')
+
+<img src="https://estivenmayhuay.github.io/huddle-landing-introductory-section-master/images/view.png" alt="Estiven Mayhuay" />
